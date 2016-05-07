@@ -1,6 +1,8 @@
 = Haxe Lib skeleton
 
 == Setup
+* `git clone https://github.com/xmeta/HaxeLibSkeleton.git`
+* `cd HaxeLibSkeleton`
 * `haxelib setup`
 * `Path : ./lib`
 * `haxelib install munit`
