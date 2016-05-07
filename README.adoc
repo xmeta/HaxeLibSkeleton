@@ -1,0 +1,19 @@
+= Haxe Lib skeleton
+
+== Setup
+* `haxelib setup`
+* `Path : ./lib`
+* `haxelib install munit`
+
+== Run Example
+* `haxe example.hxml`
+
+== Test
+* `haxelib run munit test -coverage`
+
+== License
+* image:https://img.shields.io/badge/license-MIT-blue.svg[MIT License,link="http://www.opensource.org/licenses/MIT"]
+
+== Author
+
+* xmeta https://github.com/xmeta[github] https://twitter.com/x_meta[twitter]

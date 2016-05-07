@@ -1,0 +1,11 @@
+{
+    "name": "sample",
+    "url": "https://github.com/",
+    "license": "MIT",
+    "tags": [],
+    "description": "",
+    "version": "0.0.1",
+    "releasenote": "",
+    "contributors": ["your name"],
+    "dependencies": {}
+}

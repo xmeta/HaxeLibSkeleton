@@ -1,0 +1,9 @@
+-cp src
+-cp example
+-main Main
+-dce full
+-neko ./target/example.n
+
+--next
+
+-cmd neko ./target/example.n
