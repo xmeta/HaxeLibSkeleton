@@ -9,7 +9,6 @@ import LibTest;
 
 class TestSuite extends massive.munit.TestSuite
 {
-
 	public function new()
 	{
 		super();
