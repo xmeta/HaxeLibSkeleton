@@ -7,12 +7,12 @@ import Lib;
 
 class LibTest
 {
-	public function new(){}
+    public function new(){}
 
-	@Test
-	public function testHello():Void
-	{
-	  var lib = new Lib();
-		Assert.areEqual(lib.hello(), "Hello World");
-	}
+    @Test
+    public function testHello():Void
+    {
+        var lib = new Lib();
+        Assert.areEqual(lib.hello(), "Hello World");
+    }
 }

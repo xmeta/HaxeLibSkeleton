@@ -9,10 +9,10 @@ import LibTest;
 
 class TestSuite extends massive.munit.TestSuite
 {
-	public function new()
-	{
-		super();
+    public function new()
+    {
+        super();
 
-		add(LibTest);
-	}
+        add(LibTest);
+    }
 }
