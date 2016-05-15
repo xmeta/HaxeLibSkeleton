@@ -18,4 +18,4 @@
 
 == Author
 
-* xmeta https://github.com/xmeta[github] https://twitter.com/x_meta[twitter]
+* xmeta https://github.com/xmeta[github]
